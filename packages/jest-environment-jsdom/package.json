@@ -21,9 +21,9 @@
   "dependencies": {
     "@jest/environment": "workspace:*",
     "@jest/environment-jsdom-abstract": "workspace:*",
-    "@types/jsdom": "^21.1.1",
+    "@types/jsdom": "latest",
     "@types/node": "*",
-    "jsdom": "^22.0.0"
+    "jsdom": "^24.0.0"
   },
   "devDependencies": {
     "@jest/test-utils": "workspace:*"
